@@ -17,3 +17,7 @@ div#wall > .parent > div#tag-5.slick {
 div#wall > div.parent > div + div:last-child > div#tag-6 {
   display: none;
 }
+
+div#wall > div.parent > div + div:first-child > div#tag-7 {
+  display: none;
+}
